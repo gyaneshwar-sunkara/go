@@ -47,3 +47,5 @@
 `go list -f '{{.Target}}'`
 
 `go install`
+
+`go get .`
